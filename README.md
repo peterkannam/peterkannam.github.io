@@ -20,12 +20,13 @@ This frequenty includes using regression analysis and hypothesis testing tools t
 Because the data I handle is often compared to permissible exposure limits it is important to ensure that conservative estimates are used. This requires a complete understanding of measurement error margins to characterize the limits of predictive power assositated with these analyses. When ever possible, I impliment process automation to assist with iteration and revisons. 
 
 #### Project Highlight: Chicago Environmental Justice Index
-
+<img src="docs\assests\images\ceji_structure.png" align="right" width="400px"/>
 I was the lead statisitcal analyst of the Chicago Environmental Justice Index (CEJI), part of the larger Cumulative Impact Assessment conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of Environmental Justice. 
+
 
 I was asked to calculate the Index, run a set of sensitvity analyses, and analyse its relationship to racial demographic data based on the methods published by the [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40). However, the sensitivity analyses implemented by the CalEnviroScreen were limited to the analysis of the rankings in the top 10% of scores and did not have a robust analysis of how different indicators influenced the Index. When I pointed out these limitations, I was asked to preform a literature review of composite indicator methods and a more rigourous sensitivity analysis. 
 
-The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influcence of indiviual indicators. The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
+The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influcence of indiviual indicators.   The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
 
 ### Emergency Responder - Air Monitoring and Telemetry Specialist
 
