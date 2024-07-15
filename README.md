@@ -7,11 +7,12 @@ Hello! I am a professional environmental geologist and data scientist working fo
 - *Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services* for US EPA Region 9
 <br clear="left"/>
 
-My CV can be found [here](). For an example of my work, I would suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote in [`Julia`](https://julialang.org/).
+My CV can be found [here](). For an example of a project I have worked on I suggest the the [Chicago Environmental Justin Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the cencus tracts in Chicago using 28 indicators of environmental health. For an example of my code, I  suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
 
 ## Professional Experience
 
-My foundation in data science has provided me with unique opportunities during my time at TetraTech. I have developed technical expertise in field instrumentation as well as the analysis and visualization of their results. This expertise has allowed me to participate in varied statisical studies which has given me perspectice on how different government entities and communities engage with environmental health issues.
+My technical expertise in field instrumentation is well complimented by my background is statistics. This combination has allowed me to provide complete analysis and visualization for varied statisical studies. Interacting with federal government, local government, communitiy groups, and other stakeholders in this way I have developed an interest in analysis of descion making based on these stakeholders and how the best science can be conducted within these limitations and how it can be communicated. 
+
 
 ### Data Science and Statistics
 
@@ -20,6 +21,7 @@ This frequenty includes using regression analysis and hypothesis testing tools t
 Because the data I handle is often compared to permissible exposure limits it is important to ensure that conservative estimates are used. This requires a complete understanding of measurement error margins to characterize the limits of predictive power assositated with these analyses. When ever possible, I impliment process automation to assist with iteration and revisons. 
 
 #### Project Highlight: Chicago Environmental Justice Index
+
 <img src="docs\assests\images\ceji_structure.png" align="right" width="400px"/>
 I was the lead statisitcal analyst of the Chicago Environmental Justice Index (CEJI), part of the larger Cumulative Impact Assessment conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of Environmental Justice. 
 
@@ -46,11 +48,18 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 ## Education 
 
 ### Dartmouth College - Class of 2022
+#### Major: Earth Sciences
 
-#### Major
-#### Thesis
-#### Research
+#### Research Experience
+
+- Honors Thesis: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Cananda and Implications of its use as a geochemical proxy*
+    - Advisor: Justin Strauss
+- Member of the Struass Lab for four years
+- Lab research assistant
+- Field research assistant
+
 #### Relevent Coursework
+
 
 ### Baltimore City College High School
 
