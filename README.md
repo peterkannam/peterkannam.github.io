@@ -7,28 +7,25 @@ Hello! I am a professional environmental geologist and data scientist working fo
 - *Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services* for US EPA Region 9
 <br clear="left"/>
 
-My CV can be found [here](). For an example of a project I have worked on I suggest the the [Chicago Environmental Justin Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the cencus tracts in Chicago using 28 indicators of environmental health. For an example of my code, I  suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
+My CV can be found [here](). For an example of a project I have worked on I suggest the [Chicago Environmental Justin Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health. For an example of my code, I suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
 
 ## Professional Experience
 
-My technical expertise in field instrumentation is well complimented by my background is statistics. This combination has allowed me to provide complete analysis and visualization for varied statisical studies. Interacting with federal government, local government, communitiy groups, and other stakeholders in this way I have developed an interest in analysis of descion making based on these stakeholders and how the best science can be conducted within these limitations and how it can be communicated. 
-
+My technical expertise in field instrumentation is well complimented by my background in data science, allowing me to provide complete analysis and visualization for varied statistical studies. 
 
 ### Data Science and Statistics
 
-I conduct rigorous data analysis on environemental data that accounts for the limitations imposed by instrumentation and sampling methods. 
-This frequenty includes using regression analysis and hypothesis testing tools to evaluate the relationships between different sources of data, as well as time series analysis to summarize data and evaluate trends. 
-Because the data I handle is often compared to permissible exposure limits it is important to ensure that conservative estimates are used. This requires a complete understanding of measurement error margins to characterize the limits of predictive power assositated with these analyses. When ever possible, I impliment process automation to assist with iteration and revisons. 
+I conduct analyses on environmental datasets that account for the limitations imposed by instrumentation and sampling methods. This frequently involves using different regression methods, hypothesis testing, and timeseries analyses to evaluate relationships between sources of data and summarize trends. Because the data I handle is often compared to permissible exposure limits it is important to ensure that conservative estimates are calculated. This requires a complete understanding of measurement errors and how they propagate through different analyses. 
 
 #### Project Highlight: Chicago Environmental Justice Index
 
 <img src="docs\assests\images\ceji_structure.png" align="right" width="400px"/>
-I was the lead statisitcal analyst of the Chicago Environmental Justice Index (CEJI), part of the larger Cumulative Impact Assessment conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of Environmental Justice. 
 
+I was the lead statistical analyst of the Chicago Environmental Justice Index (CEJI), part of the larger Cumulative Impact Assessment conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of environmental health. It was created to inform decisions made by policymakers who wish to enact equitable improvements to the city's environmental health. 
 
-I was asked to calculate the Index, run a set of sensitvity analyses, and analyse its relationship to racial demographic data based on the methods published by the [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40). However, the sensitivity analyses implemented by the CalEnviroScreen were limited to the analysis of the rankings in the top 10% of scores and did not have a robust analysis of how different indicators influenced the Index. When I pointed out these limitations, I was asked to preform a literature review of composite indicator methods and a more rigourous sensitivity analysis. 
+I was asked to calculate the Index, run a set of sensitivity analyses, and analyze its relationship to racial demographic data based on the methods published by the [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40). However, the sensitivity analyses implemented by the CalEnviroScreen were limited to the analysis of the rankings in the top 10% of scores and did not have a robust analysis of how different indicators influenced the Index. When I pointed out these limitations, I was asked to perform a literature review of composite indicator methods and a more rigourous sensitivity analysis. 
 
-The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influcence of indiviual indicators.   The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
+The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influence of individual indicators. The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
 
 ### Emergency Responder - Air Monitoring and Telemetry Specialist
 
@@ -61,8 +58,9 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 #### Relevent Coursework
 
 
-### Baltimore City College High School
+### Baltimore City College High School - Class of 2017
 
 ## Research Interests
 
-##
+Interacting with government, community, and academic stakeholders in this way has helped me develop an interest in how studies can be desgined and communicated to conduct the best science that can satisfy different interests. 
+
