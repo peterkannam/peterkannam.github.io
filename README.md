@@ -3,7 +3,7 @@
 
 Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been applying statistical best practices to environmental datasets to aid government officals in public health and regulatory decision making.
 
-My CV can be found [here](). For an example of a project I have worked on, I suggest the [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health. For an example of my code, I suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
+My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV_Test.pdf). For an example of a project I have worked on, I suggest the [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health. For an example of my code, I suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
 
 I primarily support the following projects:
 
