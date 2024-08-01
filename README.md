@@ -3,10 +3,8 @@
 
 Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officals in public health and regulatory decision making through the use of technical instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV_Test.pdf). 
 
-
-
-I primarily support the following projects:
-- [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index) for the Chicago Department of Public Health: a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health
+I primarily support the following projects:    
+- [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental health
    - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and senstivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
 - [Superfund Technical Assessment and Response Team](https://www.epa.gov/east-palestine-oh-train-derailment) for US EPA Region 5
 - [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
@@ -50,47 +48,13 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 
 ## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
-For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain expertise processing geochemical samples, develop my own geochemical dataset, and use that dataset to complete independent research and untimately a senior thesis. 
+For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. Over my years in research I processed geochemical samples, used labratory instrumentation to develop my own geochemical dataset, and used that dataset to complete independent research and untimately a senior thesis. 
 
 ### Senior Thesis: **XXX**
 
-My senior thesis focus on the use of a large geochemical dataset to evaulate the use of a geochemical proxy: sedimentary Hg concentrations as a proxy for regional volcanic emissions. An important step for the use of this proxy was to determine the host material of sedimentary Hg, so that normalized concentrations can be compared along at different points of the sedimentary section. My sophmore year was spent independenty running 762 geochemical samples from the road river group of yukon canada, a sedimentary section. By combining this information with previous geochemical assessment of the section, I was able to investigate the relationship between Hg concentrations and indicators of Hg's host phase in a complete sedimentary record from the XXX to the XXX. 
+My senior thesis focused on the use of a large geochemical dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic emissions. Anomalies in Hg concentrations across mass extinction boundaries have been used to conconclude that there was regional volcanism during these times. For anomalies to be identified, however, the host material of the Hg had to be first identified then normalized by. 
 
-
-
-After establishing myself as a competant technion in the processing of diterital zircon geochonology samples, I was given my own sample set to process and measure for sedimentary Hg in my sophmore year. This sample set came from the Road River Group of Yukon, Canada and represented a strech of continous deposition from the xxx to the xxx. By adding sedimentary Hg to this aready well characterized dataset, the idea was that we could robustly measure the Hg of the road river group and the methods that researchers use Hg as a proxy for regional volcanism. 
-
-Once a dataset was complied, I spent much of my junior and senior year analyzing the relationship between Hg concentrations and concentrations of analytes that are used to find the host phase of Hg, to decide how to best normalize  Hg concentrations to its host phase and therefore interperate Hg anomalies.
-
-I immeadiately found that unlike other studies, the Road River Group did not have a distinct host phase of sedimentary host phase indicators, but this sedimentary section also descibes a much larger timespan that other sections found in Hg studies, because they are primarily focused on extintion events and linking them to volcanic emissions.
-
-To account for the larger sample time span availible to me, I began to use time series analysis on geochemical dataset of the Road River Group. Specificially, I applied the typical tests used in the field, correlations and mulitple regression, to a moving window analysis. I futhermore used applied Dominance Analysis, a type of recursive regression that defines how much of the [variance] each predivtive variable explains. 
 
 <img src="docs\assests\images\MovingDominance.png" width="800px"/>
 
-This reserach lead to a senior thesis titled: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Cananda and Implications of its use as a geochemical proxy*. This was one of the first studies to identify a sedimentary section with a changing host phase of sedimentary Hg, it also characterized how
-
-- Honors Thesis: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Cananda and Implications of its use as a geochemical proxy*
-    - Advisor: Justin Strauss
-- Member of the Struass Lab for four years
-- Lab research assistant
-- Field research assistant
-
-
-## Education 
-
-### Dartmouth College - Class of 2022
-#### Major: Earth Sciences
-
-#### Relevent Coursework
-- 
-
-
-### Baltimore City College High School - Class of 2017
-
-## Research Interests
-
-Interacting with government, community, and academic stakeholders in this way has helped me develop an interest in how studies can be desgined and communicated to conduct the best science that can satisfy different interests. 
-
-how do we do the best science and how do we communicate it
 
