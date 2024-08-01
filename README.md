@@ -50,10 +50,11 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 
 For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. Over my years in research I processed geochemical samples, used labratory instrumentation to develop my own geochemical dataset, and used that dataset to complete independent research and untimately a senior thesis. 
 
-### Senior Thesis: **XXX**
+### Senior Thesis: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada* (2022)
 
-My senior thesis focused on the use of a large geochemical dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic emissions. Anomalies in Hg concentrations across mass extinction boundaries have been used to conconclude that there was regional volcanism during these times. For anomalies to be identified, however, the host material of the Hg had to be first identified then normalized by. 
+My senior thesis focused on the analysis of a large sedimentary dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic emissions. Anomalies in Hg concentrations across mass extinction boundaries have been used to conconclude that there was regional volcanism during these events. For anomalies to be identified, however, the host material of the Hg had to be first identified then normalized by. 
 
+... 
 
 <img src="docs\assests\images\MovingDominance.png" width="800px"/>
 
