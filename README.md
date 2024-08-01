@@ -1,7 +1,7 @@
 # Peter Kannam 
 <img src="docs\assests\images\peterkannam_headshot.png" align="right" width="200px"/>
 
-Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officals in public health and regulatory decision making through the use of technical instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf). 
+Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officals in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf). 
 
 I primarily support the following projects:    
 - [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental health
@@ -50,7 +50,7 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 
 For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. Over my years in research I processed geochemical samples, used labratory instrumentation to develop my own geochemical dataset, and used that dataset to complete independent research and untimately a senior thesis. 
 
-### Senior Thesis: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada* (2022)
+### ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
 
 My senior thesis focused on the analysis of a large sedimentary dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic emissions. Anomalies in Hg concentrations across mass extinction boundaries have been used to conconclude that there was regional volcanism during these events. For anomalies to be identified, however, the host material of the Hg had to be first identified then normalized by. 
 
@@ -58,4 +58,8 @@ My senior thesis focused on the analysis of a large sedimentary dataset to evalu
 
 <img src="docs\assests\images\MovingDominance.png" width="800px"/>
 
+## Research Interests
+...
+## Education 
+...
 
