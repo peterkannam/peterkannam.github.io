@@ -66,7 +66,7 @@ I immeadiately found that unlike other studies, the Road River Group did not hav
 
 To account for the larger sample time span availible to me, I began to use time series analysis on geochemical dataset of the Road River Group. Specificially, I applied the typical tests used in the field, correlations and mulitple regression, to a moving window analysis. I futhermore used applied Dominance Analysis, a type of recursive regression that defines how much of the [variance] each predivtive variable explains. 
 
-<img src="docs\assests\images\MovingDominance.png" align="center" width="800px"/>
+<img src="docs\assests\images\MovingDominance.png" width="800px"/>
 
 This reserach lead to a senior thesis titled: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Cananda and Implications of its use as a geochemical proxy*. This was one of the first studies to identify a sedimentary section with a changing host phase of sedimentary Hg, it also characterized how
 
