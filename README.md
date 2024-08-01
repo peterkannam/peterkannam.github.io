@@ -1,15 +1,15 @@
 # Peter Kannam 
 <img src="docs\assests\images\peterkannam_headshot.png" align="right" width="200px"/>
 
-Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been applying statistical best practices to environmental datasets to aid government officals in public health and regulatory decision making.
+Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officals in public health and regulatory decision making through the use of technical instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV_Test.pdf). 
 
-My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV_Test.pdf). For an example of a project I have worked on, I suggest the [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health. For an example of my code, I suggest  [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a package I wrote for the calculation and analysis of composite indicator models in [`Julia`](https://julialang.org/).
+
 
 I primarily support the following projects:
-
-- *Chicago Cumulative Impact Assessment; Data and Methods Working Group* for the Chicago Department of Public Health
-- *Superfund Technical Assessment and Response Team* for US EPA Region 5
-- *Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services* for US EPA Region 9
+- [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index) for the Chicago Department of Public Health: a composite indicator model that scores all the census tracts in Chicago using 28 indicators of environmental health
+   - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and senstivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
+- [Superfund Technical Assessment and Response Team](https://www.epa.gov/east-palestine-oh-train-derailment) for US EPA Region 5
+- [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
 <br clear="left"/>
 
 ## Professional Experience - Tetra Tech
@@ -48,9 +48,17 @@ I helped establish and maintain the air monitoring network around the East Palis
 I was also in charge of computing daily air monitoring summaries tables for US EPA to distrubute, a process which I largely automated. An example can be found [here](https://www.epa.gov/system/files/documents/2023-06/Continuous%20Monitoring%20Summary%20Table_20230611_Community_508T.pdf), all of summary tables can be found [here](https://www.epa.gov/east-palestine-oh-train-derailment/air-monitoring-documents).
 <br clear="left"/>
 
-## Research Experience - *Tectonics and Earth History Labratory Group*, Dartmouth College
+## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
-For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Tectonics and Earth History Labratory Group* under principle investigator Justin Strauss. After establishing myself as a competant technion in the processing of diterital zircon geochonology samples, I was given my own sample set to process and measure for sedimentary Hg in my sophmore year. This sample set came from the Road River Group of Yukon, Canada and represented a strech of continous deposition from the xxx to the xxx. By adding sedimentary Hg to this aready well characterized dataset, the idea was that we could robustly measure the Hg of the road river group and the methods that researchers use Hg as a proxy for regional volcanism. 
+For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain expertise processing geochemical samples, develop my own geochemical dataset, and use that dataset to complete independent research and untimately a senior thesis. 
+
+### Senior Thesis: **XXX**
+
+My senior thesis focus on the use of a large geochemical dataset to evaulate the use of a geochemical proxy: sedimentary Hg concentrations as a proxy for regional volcanic emissions. An important step for the use of this proxy was to determine the host material of sedimentary Hg, so that normalized concentrations can be compared along at different points of the sedimentary section. My sophmore year was spent independenty running 762 geochemical samples from the road river group of yukon canada, a sedimentary section. By combining this information with previous geochemical assessment of the section, I was able to investigate the relationship between Hg concentrations and indicators of Hg's host phase in a complete sedimentary record from the XXX to the XXX. 
+
+
+
+After establishing myself as a competant technion in the processing of diterital zircon geochonology samples, I was given my own sample set to process and measure for sedimentary Hg in my sophmore year. This sample set came from the Road River Group of Yukon, Canada and represented a strech of continous deposition from the xxx to the xxx. By adding sedimentary Hg to this aready well characterized dataset, the idea was that we could robustly measure the Hg of the road river group and the methods that researchers use Hg as a proxy for regional volcanism. 
 
 Once a dataset was complied, I spent much of my junior and senior year analyzing the relationship between Hg concentrations and concentrations of analytes that are used to find the host phase of Hg, to decide how to best normalize  Hg concentrations to its host phase and therefore interperate Hg anomalies.
 
@@ -58,7 +66,7 @@ I immeadiately found that unlike other studies, the Road River Group did not hav
 
 To account for the larger sample time span availible to me, I began to use time series analysis on geochemical dataset of the Road River Group. Specificially, I applied the typical tests used in the field, correlations and mulitple regression, to a moving window analysis. I futhermore used applied Dominance Analysis, a type of recursive regression that defines how much of the [variance] each predivtive variable explains. 
 
-[figure of moving dominance analysis]
+<img src="docs\assests\images\MovingDominance.png" align="center" width="800px"/>
 
 This reserach lead to a senior thesis titled: *Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Cananda and Implications of its use as a geochemical proxy*. This was one of the first studies to identify a sedimentary section with a changing host phase of sedimentary Hg, it also characterized how
 
