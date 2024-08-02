@@ -4,7 +4,7 @@
 Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officals in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf). 
 
 I primarily support the following projects:    
-- [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental health
+- [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental and social health
    - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and senstivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
 - [Superfund Technical Assessment and Response Team](https://www.epa.gov/east-palestine-oh-train-derailment) for US EPA Region 5
 - [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
@@ -48,18 +48,47 @@ I was also in charge of computing daily air monitoring summaries tables for US E
 
 ## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
-For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. Over my years in research I processed geochemical samples, used labratory instrumentation to develop my own geochemical dataset, and used that dataset to complete independent research and untimately a senior thesis. 
+For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group I processed geochemical samples, used labratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
 
 ### ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
 
-My senior thesis focused on the analysis of a large sedimentary dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic emissions. Anomalies in Hg concentrations across mass extinction boundaries have been used to conconclude that there was regional volcanism during these events. For anomalies to be identified, however, the host material of the Hg had to be first identified then normalized by. 
+My senior thesis focused on the analysis of a large sedimentary dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic activity. The primary source of Hg to sediments is by volcanism, so anomalies in Hg concentrations across mass extinction boundaries have been used to conclude that there was regional volcanism during these events. 
 
-... 
+An important step in indentifing these anomalies is the identification of the host material of the Hg and then normalizing Hg concentraions by the concentrations of the host material. I rigoruously tested this step using geochemical data from the Road River Group of Yukon, Canada which recorded continuous deposition from the xxx to the xxx. 
 
-<img src="docs\assests\images\MovingDominance.png" width="800px"/>
+Preliminary analysis of this dataset yielded inconclusive results on the host phase of Hg. To account for the xxx million years my dataset represented, I implimented timeseries analyis methods in the form of monving window sampling to create results that could be compared to other studies. I additionally implimented tools that better characterize the influence between variables than the correlations typically used by sedimentary Hg studies. The most useful tool was dominance analysis: a form of recursive multiple regression that calculates how much variance each predictor variable can explain of the response variable. 
+
+The results from "Moving dominance analysis" proved that the influence of host phase indicators on Hg concentrations are varible and shared amoung the host phase indicators. These conclusions called the assumptions of a single host phase and simple normalization techniques used by sedimentary Hg studies into question.
+
+<img src="docs\assests\images\MovingDominance.png" width="1200px"/>
 
 ## Research Interests
-...
-## Education 
-...
+
+I am interested in how climate and environmental science can inform public health decison making and community health awareness. While these goals are interrelated, different target audiences often value seperate metrics and communication strategies. I think it is important to design studies that can meet the requirements of different audiences and spaces without sacrificing scientific integrety for simplicity. 
+
+Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighboorhood or city block scalesI would like to investigate how climate action and urban improvement agendas can be complimentary so they can together hold greater influence in the decision making analysis of government officials. Effective and efficent use of limited resources for a resilent future.  
+
+## Education
+
+### Dartmouth College - Class of 2022
+Major in the Earth Sciences
+
+#### Relevent Major Coursework:
+- Technical Computation in the Earth Sciences
+- Topics in historical geobiology
+- Minerology
+- Contaminant Hydrogeology
+- Igneous and metamorphic geology
+- Sedimentology and Stratigraphy
+- Marine Biogeochemical Cycling
+
+#### Relevent Coursework:
+- Optimization Mathematics - Linear Programming 
+- Linear Algebra
+- Differential Equations
+- Introductory Chemistry, Physics 
+### Balitmore City College High School - Class of 2017
+
+
+
 
