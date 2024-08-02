@@ -6,7 +6,7 @@ Hello! I am a professional environmental geologist and data scientist working fo
 I primarily support the following projects:    
 - [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental and social health
    - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and sensitivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
-- [Superfund Technical Assessment and Response Team](https://www.epa.gov/east-palestine-oh-train-derailment) for US EPA Region 5
+- [Superfund Technical Assessment and Response Team](#project-highlight-east-palestine-train-derailment) for US EPA Region 5
 - [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
 <br clear="left"/>
 
@@ -41,7 +41,7 @@ My experience is such that *Superfund Technical Assessment and Response Team* ma
 
 <img src="docs\assests\images\air-monitoring-within-the-community-small.png" align="right" width="300px"/>
 
-I helped establish and maintain the air monitoring network around the East Palestine Train Derailment.  Because of its size and longevity, this project taught me how to effectively scale air monitoring networks and many telemetry best practices that are not normally considered under emergency conditions. 
+I helped establish and maintain the air monitoring network around the [East Palestine Train Derailment](https://www.epa.gov/east-palestine-oh-train-derailment).  Because of its size and longevity, this project taught me how to effectively scale air monitoring networks and many telemetry best practices that are not normally considered under emergency conditions. 
 
 I was also in charge of computing daily air monitoring summary tables for US EPA to distribute, a process which I largely automated. An example can be found [here](https://www.epa.gov/system/files/documents/2023-06/Continuous%20Monitoring%20Summary%20Table_20230611_Community_508T.pdf), and all of summary tables can be found [here](https://www.epa.gov/east-palestine-oh-train-derailment/air-monitoring-documents).
 <br clear="left"/>
