@@ -25,9 +25,8 @@ I conduct analyses on environmental datasets that account for the limitations im
 I am the lead statistical analyst of the Chicago Environmental Justice Index (CEJI), part of the larger [Cumulative Impact Assessment](https://www.chicago.gov/city/en/depts/cdph/supp_info/Environment/cumulative-impact-assessment.html) being conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of environmental health. It was created to inform decisions made by policymakers who wish to enact equitable improvements to the city's environmental health. 
 
 I was tasked with calculating the Index, running a set of sensitivity analyses, and analyzing its relationship to racial demographic data based on the methods published by the [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40). However, when I noted the limitations of the sensitivity analysis implemented by the CalEnviroScreen, I was asked to perform a literature review of composite indicator methods and a more rigorous sensitivity analysis.
-<br clear="left"/>
-
 The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influence of individual indicators on final Index scores. The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
+<br clear="left"/>
 
 ### Emergency Responder - Air Monitoring and Telemetry Specialist
 
