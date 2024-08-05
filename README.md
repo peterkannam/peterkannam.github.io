@@ -47,7 +47,7 @@ I was also in charge of computing daily air monitoring summary tables for US EPA
 
 ## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
-For all four years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group, I processed geochemical samples, used laboratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
+For the final three years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group, I processed geochemical samples, used laboratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
 
 ### ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
 
@@ -59,7 +59,7 @@ Preliminary analysis of this dataset yielded inconclusive results on the host ph
 
 <img src="docs\assests\images\MovingDominance.png" width="1200px"/>
 
-The results from "moving dominance analysis" showed that the influence of host phase indicators varies greatly in the constant deposition environment of the Road River Group. This finding complicates the hypothesis of a simple deposition pathway for Hg which fundamental its use as a proxy for volcanism. Additionally, Hg concentrations were shown to be influenced by multiple host phase indicators simultaneously. As Hg normalization typically occurs by division by the single identified host material, this finding calls into question the methods used to identify Hg anomalies. Ultimately, this study showed that further work must be done to characterize the behavior of Hg in ancient sediments before concentrations can reliably be used as a proxy for regional volcanism. 
+The results from "moving dominance analysis" showed that the influence of host phase indicators varies greatly in the constant deposition environment of the Road River Group. This finding complicates the hypothesis of a simple deposition pathway for Hg which is fundamental for its use as a proxy for volcanism. Additionally, Hg concentrations were shown to be influenced by multiple host phase indicators simultaneously. As Hg normalization typically occurs by division by the single identified host material, this finding calls into question the methods used to identify Hg anomalies. Ultimately, this study showed that further work must be done to characterize the behavior of Hg in ancient sediments before concentrations can reliably be used as a proxy for regional volcanism. 
 
 ## Research Interests
 
