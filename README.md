@@ -16,7 +16,7 @@ My technical expertise in field instrumentation is well complimented by my backg
 
 ### Data Science and Statistics
 
-I conduct analyses on environmental datasets that account for the limitations imposed by instrumentation and sampling methods. This frequently involves using different regression methods, hypothesis testing, and timeseries analyses to evaluate relationships between sources of data and characterize trends. Because the data I handle is often compared to permissible exposure limits for human and environmental health, it is important to ensure that conservative estimates are calculated. This requires a complete understanding of measurement errors and how they propagate through different methods. 
+I conduct analyses on environmental datasets that account for the limitations imposed by instrumentation and sampling methods. This frequently involves using different regression methods, hypothesis testing, and timeseries analyses to evaluate relationships between sources of data and characterize trends. Because the data I handle is often compared to permissible exposure limits for human and environmental health, it is important to ensure that we calculate conservative estimates. This requires a complete understanding of measurement errors and how they propagate through different methods. 
 
 #### Project Highlight: Chicago Environmental Justice Index
 
@@ -25,16 +25,16 @@ I conduct analyses on environmental datasets that account for the limitations im
 I am the lead statistical analyst of the Chicago Environmental Justice Index (CEJI), part of the larger [Cumulative Impact Assessment](https://www.chicago.gov/city/en/depts/cdph/supp_info/Environment/cumulative-impact-assessment.html) being conducted by the Chicago Department of Public Health. The CEJI is a composite indicator model that assigns an Index score to each census tract in Chicago by aggregating the information in 28 indicators of environmental health. It was created to inform decisions made by policymakers who wish to enact equitable improvements to the city's environmental health. 
 
 I was tasked with calculating the Index, running a set of sensitivity analyses, and analyzing its relationship to racial demographic data based on the methods published by the [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40). However, when I noted the limitations of the sensitivity analysis implemented by the CalEnviroScreen, I was asked to perform a literature review of composite indicator methods and a more rigorous sensitivity analysis.
-The ensuing *Statistical Coherence Assessment* characterized the structure of the of the CEJI and the influence of individual indicators on final Index scores. The code used for this analysis was further developed into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
+The ensuing *Statistical Coherence Assessment* characterized the structure of the CEJI and the influence of individual indicators on final Index scores. The code used for this analysis was further developed into [`CompositeIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
 <br clear="left"/>
 
 ### Emergency Responder - Air Monitoring and Telemetry Specialist
 
-As a member of the *Superfund Technical Assessment and Response Team* I am a specialist in quickly establishing effective air monitoring networks during environmental disasters. This involves the deployment and maintenance of air monitoring instruments, using network specific devices to connect instruments to telemetry software, and using that software to push synced data to relevant servers. 
+As a member of the *Superfund Technical Assessment and Response Team* I specialize in quickly establishing effective air monitoring networks during environmental disasters. This involves the deployment and maintenance of air monitoring instruments, using network specific devices to connect instruments to telemetry software, and using that software to push synced data to relevant servers. 
 
-Telemetry is primarily established using the [Viper](https://response.epa.gov/site/site_profile.aspx?site_id=5033) system developed by US EPA, and requires the manipulation of instrument and computer network settings. Network connections through Viper use cell, wi-fi, and radio communication and synced using Precision Time Management protocols. Through training and troubleshooting I have developed a practical knowledge on how to establish and manipulate real time data flows.
+Telemetry is primarily established using the [Viper](https://response.epa.gov/site/site_profile.aspx?site_id=5033) system developed by the US EPA, and requires the manipulation of instrument and computer network settings. Network connections through Viper use cell, wi-fi, and radio communication and are synced using Precision Time Management protocols. Through training and troubleshooting, I have developed a practical knowledge on how to establish and manipulate real time data flows.
 
-My experience is such that *Superfund Technical Assessment and Response Team* management asked me to design and run a training for all TetraTech responders on the contract.
+My experience is such that the *Superfund Technical Assessment and Response Team* management asked me to design and conduct a training for all TetraTech responders on the contract.
 
 #### Project Highlight: East Palestine Train Derailment 
 
@@ -42,12 +42,12 @@ My experience is such that *Superfund Technical Assessment and Response Team* ma
 
 I helped establish and maintain the air monitoring network around the [East Palestine Train Derailment](https://www.epa.gov/east-palestine-oh-train-derailment).  Because of its size and longevity, this project taught me how to effectively scale air monitoring networks and many telemetry best practices that are not normally considered under emergency conditions. 
 
-I was also in charge of computing daily air monitoring summary tables for US EPA to distribute, a process which I largely automated. An example can be found [here](https://www.epa.gov/system/files/documents/2023-06/Continuous%20Monitoring%20Summary%20Table_20230611_Community_508T.pdf), and all of summary tables can be found [here](https://www.epa.gov/east-palestine-oh-train-derailment/air-monitoring-documents).
+I was also in charge of computing daily air monitoring summary tables for the US EPA to distribute, a process which I largely automated. An example can be found [here](https://www.epa.gov/system/files/documents/2023-06/Continuous%20Monitoring%20Summary%20Table_20230611_Community_508T.pdf), and all of summary tables can be found [here](https://www.epa.gov/east-palestine-oh-train-derailment/air-monitoring-documents).
 <br clear="left"/>
 
 ## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
-For the final three years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principle investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group, I processed geochemical samples, used laboratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
+For the final three years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principal investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group, I processed geochemical samples, used laboratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
 
 ### ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
 
@@ -65,14 +65,14 @@ The results from "moving dominance analysis" showed that the influence of host p
 
 I am interested in how climate and environmental science can inform public health decision making and community health awareness. While these goals are interrelated, different target audiences often value separate metrics and communication strategies. I think it is important to design studies that can meet the requirements of different audiences and spaces without sacrificing scientific integrity for simplicity. 
 
-Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighborhood or city block scales, I would like to investigate how climate action and urban improvement agendas can be complimentary so they can together hold greater influence in the decision making analysis of government officials. I believe that an effective and efficient use of limited resources is one of the keys to a resilient future. 
+Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighborhood or city block scales, I would like to investigate how climate action and urban improvement agendas can be complementary so they can together hold greater influence in the decision making analysis of government officials. I believe that an effective and efficient use of limited resources is one of the keys to a resilient future. 
 
 ## Education
 
 ### Dartmouth College - Class of 2022
 Major in the Earth Sciences
 
-#### Relevent Major Coursework:
+#### Relevant Major Coursework:
 - Technical Computation in the Earth Sciences
 - Contaminant Hydrogeology
 - Marine Biogeochemical Cycling
