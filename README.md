@@ -1,6 +1,6 @@
 # Peter Kannam 
 
-<img src="docs\assests\images\peterkannam_headshot.png" align="right" width="300px"/>
+<img src="docs\assests\images\peterkannam_headshot.png" align="right" width="250px"/>
 
 Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf). 
 
