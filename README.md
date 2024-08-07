@@ -2,9 +2,6 @@
 
 <img src="docs\assests\images\peterkannam_headshot.png" align="right" width="200px"/>
 
-|[Professional Experience](#professional-experience---tetra-tech)|[Research Experience](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college)|[Research Interests](#research-interests)|
-|:---:|:---:|:---:|
-
 Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf). 
 
 I primarily support the following projects:    
@@ -12,6 +9,8 @@ I primarily support the following projects:
    - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and sensitivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
 - [Superfund Technical Assessment and Response Team](#project-highlight-east-palestine-train-derailment) for US EPA Region 5
 - [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
+
+I graduated from Dartmouth College in 2022. While completing my degree in Earth Sciences, I with a degree in Earth Sciences. While in undergraduate, I completed three years of research  
 <br clear="left"/>
 
 ## Professional Experience - Tetra Tech
