@@ -10,7 +10,7 @@ I primarily support the following projects:
 - [Superfund Technical Assessment and Response Team](#project-highlight-east-palestine-train-derailment) for US EPA Region 5
 - [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
 
-I graduated from Dartmouth College in 2022 with a major in Earth Sciences. While completing my degree, I participated in three years of [research with the *Earth History and Tectonics Laboratory Group*](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college) primarily studying the changing relationships between elements in a large geochemical dataset. 
+I graduated from Dartmouth College in 2022 with a major in Earth Sciences. While completing my degree, I participated in three years of [research with the *Earth History and Tectonics Laboratory Group*](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college) primarily studying the changing relationships between elements in a large geochemical dataset. Some of my current research interests can be found [here](#research-interests).
 <br clear="left"/>
 
 ## Professional Experience - Tetra Tech
