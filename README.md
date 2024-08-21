@@ -13,15 +13,15 @@ I primarily support the following projects:
 I graduated from Dartmouth College in 2022 with a major in Earth Sciences. While completing my degree, I participated in three years of [research with the *Earth History and Tectonics Laboratory Group*](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college) studying the changing relationships between elements in a large geochemical dataset. Some of my current research interests can be found [here](#research-interests).
 <br clear="left"/>
 
-## Professional Experience - Tetra Tech
+# Professional Experience - Tetra Tech
 
 My technical expertise in field instrumentation is well complimented by my background in data science, allowing me to provide complete analysis and visualization for varied studies. 
 
-### Data Science and Statistics
+## Data Science and Statistics
 
 I conduct analyses on environmental datasets that account for the limitations imposed by instrumentation and sampling methods. This frequently involves using different regression methods, hypothesis testing, and timeseries analyses to evaluate relationships between sources of data and characterize trends. Because the data I handle is often compared to permissible exposure limits for human and environmental health, it is important to ensure that we calculate conservative estimates. This requires a complete understanding of measurement errors and how they propagate through different methods. 
 
-#### Project Highlight: Chicago Environmental Justice Index
+### Project Highlight: Chicago Environmental Justice Index
 
 <img src="docs\assests\images\ceji_structure.png" align="left" width="400px"/>
 
@@ -31,7 +31,7 @@ I was tasked with calculating the Index, running a set of sensitivity analyses, 
 The ensuing *Statistical Coherence Assessment* characterized the structure of the CEJI and the influence of individual indicators on final Index scores. The code used for this analysis was further developed into [`CompositeIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl).
 <br clear="left"/>
 
-### Emergency Responder - Air Monitoring and Telemetry Specialist
+## Emergency Responder - Air Monitoring and Telemetry Specialist
 
 As a member of the *Superfund Technical Assessment and Response Team* I specialize in quickly establishing effective air monitoring networks during environmental disasters. This involves the deployment and maintenance of air monitoring instruments, using network specific devices to connect instruments to telemetry software, and using that software to push synced data to relevant servers. 
 
@@ -39,7 +39,7 @@ Telemetry is primarily established using the [Viper](https://response.epa.gov/si
 
 My experience is such that the *Superfund Technical Assessment and Response Team* management asked me to design and conduct a training for all TetraTech responders on the contract.
 
-#### Project Highlight: East Palestine Train Derailment 
+### Project Highlight: East Palestine Train Derailment 
 
 <img src="docs\assests\images\air-monitoring-within-the-community-small.png" align="right" width="300px"/>
 
@@ -48,11 +48,11 @@ I helped establish and maintain the air monitoring network around the [East Pale
 I was also in charge of computing daily air monitoring summary tables for the US EPA to distribute, a process which I largely automated. An example can be found [here](https://www.epa.gov/system/files/documents/2023-06/Continuous%20Monitoring%20Summary%20Table_20230611_Community_508T.pdf), and all of summary tables can be found [here](https://www.epa.gov/east-palestine-oh-train-derailment/air-monitoring-documents).
 <br clear="left"/>
 
-## Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
+# Research Experience - *Earth History and Tectonics Laboratory Group*, Dartmouth College
 
 For the final three years of my Earth Sciences major at Dartmouth College, I was a member of the *Earth History and Tectonics Laboratory Group* under principal investigator Justin Strauss. This experience allowed me to gain exposure to all steps of the research process. While part of this lab group, I processed geochemical samples, used laboratory instrumentation to develop my own geochemical dataset, and analyzed that dataset to complete independent research and ultimately a senior thesis. 
 
-### ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
+## ***Changing Host Phases of Sedimentary Mercury in the Road River Group of Yukon, Canada***: Senior Thesis (2022) and GSA Connect Poster (2021)
 
 My senior thesis focused on the analysis of a large sedimentary dataset to evaluate the use of a geochemical proxy: sedimentary Mercury (Hg) concentrations as a proxy for regional volcanic activity. The primary source of Hg to sediments is by volcanism, so anomalies in Hg concentrations across mass extinction boundaries have been used to conclude that there was regional volcanism during these events. 
 
@@ -64,18 +64,18 @@ Preliminary analysis of this dataset yielded inconclusive results on the host ph
 
 The results from "moving dominance analysis" showed that the influence of host phase indicators varies greatly in the constant deposition environment of the Road River Group. This finding complicates the hypothesis of a simple deposition pathway for Hg which is fundamental for its use as a proxy for volcanism. Additionally, Hg concentrations were shown to be influenced by multiple host phase indicators simultaneously. As Hg normalization typically occurs by division by the single identified host material, this finding calls into question the methods used to identify Hg anomalies. Ultimately, this study showed that further work must be done to characterize the behavior of Hg in ancient sediments before concentrations can reliably be used as a proxy for regional volcanism. 
 
-## Research Interests
+# Research Interests
 
 I am interested in how climate and environmental science can inform public health decision making and community health awareness. While these goals are interrelated, different target audiences often value separate metrics and communication strategies. I think it is important to design studies that can meet the requirements of different audiences and spaces without sacrificing scientific integrity for simplicity. 
 
 Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighborhood or city block scales, I would like to investigate how climate action and urban improvement agendas can be complementary so they can together hold greater influence in the decision making analysis of government officials. I believe that an effective and efficient use of limited resources is one of the keys to a resilient future. 
 
-## Education
+# Education
 
-### Dartmouth College - Class of 2022
+## Dartmouth College - Class of 2022
 Major in the Earth Sciences
 
-#### Relevant Major Coursework:
+### Relevant Major Coursework:
 - Technical Computation in the Earth Sciences
 - Contaminant Hydrogeology
 - Marine Biogeochemical Cycling
@@ -84,10 +84,13 @@ Major in the Earth Sciences
 - Igneous and Metamorphic Petrology
 - Minerology
 
-#### Other Relevant Coursework:
+### Other Relevant Coursework:
 - Optimization Mathematics - Linear Programming 
 - Linear Algebra
 - Differential Equations
 - Introductory Chemistry, Physics 
 
-### Baltimore City College High School - Class of 2017
+## Baltimore City College High School - Class of 2017
+
+# Links to Other Things I Like
+[Slacklining](https://www.slacklinechicago.com/), [Books](https://en.wikipedia.org/wiki/When_We_Cease_to_Understand_the_World), [Rock Music](https://www.youtube.com/watch?v=JkvjVWyebWI), [Board Games](https://boardgamegeek.com/boardgame/167791/terraforming-mars), [Funk Music](https://www.youtube.com/watch?v=48I9NXcA5TM), [Backpacking](https://www.greenmountainclub.org/the-long-trail/), [Pop Music](https://www.youtube.com/watch?v=0q3K6FPzY18), [Godzilla](https://www.youtube.com/watch?v=1K4EDfUjpIE)
