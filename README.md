@@ -2,7 +2,7 @@
 
 <img src="docs\assests\images\peterkannam_headshot.png" align="right" width="250px"/>
 
-***Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_CV.pdf).***
+***Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My CV can be found [here](https://peterkannam.github.io/docs/assests/Kannam_Resume_260305.pdf).***
 
 I primarily support the following projects:    
 - [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental and social health
@@ -72,7 +72,7 @@ The results from "moving dominance analysis" showed that the influence of host p
 
 I am interested in how climate and environmental science can inform public health decision making and community health awareness. While these goals are interrelated, different target audiences often value separate metrics and communication strategies. I think it is important to design studies that can meet the requirements of different audiences and spaces without sacrificing scientific integrity for simplicity. 
 
-Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighborhood or city block scales, I would like to investigate how climate action and urban improvement agendas can be complementary so they can together hold greater influence in the decision making analysis of government officials. I believe that an effective and efficient use of limited resources is one of the keys to a resilient future. 
+Specifically, I am interested in air quality and extreme heat modeling and how the quality of life described by these models is impacted by specific aspects of the urban environment. By focusing on issues at neighborhood or city block scales, I would like to investigate how climate action and urban improvement agendas can be complementary so they can together hold greater influence in the decision making analysis of government officials. I believe that an effective and efficient use of limited resources is one of the  keys to a resilient future. 
 
 # Education
 
