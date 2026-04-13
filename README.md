@@ -2,15 +2,17 @@
 
 <img src="docs\assests\images\peterkannam_headshot.png" align="right" width="250px"/>
 
-***Hello! I am a professional environmental geologist and data scientist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision making through the use of technical field instrumentation and by applying statistical best practices to environmental datasets. My resume can be found [here](https://peterkannam.github.io/docs/assests/Kannam_Resume_250407.pdf).***
+***Hello! I am a professional environmental data scientist and geologist working for TetraTech. The focus of my work has been aiding government officials in public health and regulatory decision with technical field instrumentation, data management best practices, and statistical analyses. My resume can be found [here](https://peterkannam.github.io/docs/assests/Kannam_Resume_Radiation.pdf).***
 
-I primarily support the following projects:    
+I primarily support the following projects:   
+- [Superfund Technical Assessment and Response Team](#emergency-responder---air-monitoring-and-telemetry-specialist): primary science contract for superfund and emergency response operations US EPA
+   - I provide project managers with customized data collection tools, management workflows, and analysis with languages such as `Python`, `R`, and `SQL` to provide insight into large datasets and enforce federal quality control standards.      
 - [Chicago Environmental Justice Index](#project-highlight-chicago-environmental-justice-index): a composite indicator model for the Chicago Department of Public Health that scores all the census tracts in Chicago using 28 indicators of environmental and social health
-   - I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and sensitivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
-- [Superfund Technical Assessment and Response Team](#emergency-responder---air-monitoring-and-telemetry-specialist) for US EPA Region 5
-- [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup) for US EPA Region 9
+   - I was the lead statistical analysist for this project in charge of developing index calculation, indicator sensitivity analysis, and methodological sensitivity analysis. I developed the code I wrote for this project into [`CompoisteIndicators.jl`](https://github.com/peterkannam/CompositeIndicators.jl?tab=readme-ov-file#compositeindicatorsjl): a dynamic [`Julia`](https://julialang.org/) package for the computation and sensitivity analysis of composite indicator models that can be used by cities and groups undertaking similar efforts
+- [Navajo Abandoned Uranium Mines; Response, Assessment, and Evaluation Services](https://www.epa.gov/navajo-nation-uranium-cleanup): primary science contract for uranium mine cleanup on Navajo Nation
+   - I am the lead analysist for the US EPA’s regional background analysis, supporting the compilation of hundreds of unstandardized background datasets into a SQL database and performing statistical analysis based on grouping variables.
 
-I graduated from Dartmouth College in 2022 with a major in Earth Sciences. While completing my degree, I participated in three years of [research with the *Earth History and Tectonics Laboratory Group*](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college) studying the changing relationships between elements in a large geochemical dataset. Some of my current research interests can be found [here](#research-interests).
+I graduated from Dartmouth College in 2022 with a major in Earth Sciences. While completing my degree, I participated in three years of [research with the *Earth History and Tectonics Laboratory Group*](#research-experience---earth-history-and-tectonics-laboratory-group-dartmouth-college) studying the changing relationships between elements in a large geochemical dataset. 
 <br clear="left"/>
 
 # Professional Experience - Tetra Tech
